@@ -1,0 +1,51 @@
+/*Aminities section */
+.service-title {
+  text-align: center;
+  padding: 20px 0;
+}
+.service-title h5 {
+  display: inline-block;
+  font-size: 30px;
+  border-radius: 10px;
+  padding: 10px 10px;
+  color: white;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  background-color: #00224f;
+}
+.service-title h2 {
+  padding: 40px 0;
+  font-size: 60px;
+}
+.amenities-section {
+  background-color: #f1f4f9;
+  padding: 100px 0;
+}
+.amenites-wrapper {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+
+  flex-wrap: wrap;
+}
+
+.amenites-wrap {
+  box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
+  cursor: pointer;
+  width: 20%;
+}
+.amenites-wrap:hover {
+  background-color: #00224f;
+  transition: 0.5s;
+  color: white;
+}
+.amenites-cards {
+  text-align: center;
+  padding: 20px;
+}
+.amenites-cards img {
+  /* height: 10rem; */
+  width: 50%;
+}
+.amenites-cards h2 {
+  padding: 20px 0;
+}

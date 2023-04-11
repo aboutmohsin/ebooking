@@ -9,23 +9,23 @@ const NavBar = () => {
           <div className="container">
             <div className="nav-bar">
               <div className="logo">
-                <a href="#">
+                <a href="/">
                   <img src="./images/logo/logo.png" alt="logo" />
                 </a>
               </div>
               <div className="btn-list">
                 <ul>
                   <li>
-                    <Link to="/">Home</Link>
+                    <a herf="/">Home</a>
                   </li>
                   <li>
-                    <Link to="/dashboard">Dashboard</Link>
+                    <a herf="/dashboard">Dashboard</a>
                   </li>
                   <li>
-                    <Link to="/register">Register</Link>
+                    <a herf="/register">Register</a>
                   </li>
                   <li>
-                    <Link to="/login">Login</Link>
+                    <a herf="/login">Login</a>
                   </li>
                 </ul>
               </div>
