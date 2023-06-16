@@ -68,6 +68,9 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### Deployed on Netlify
 https://ebookingsite.netlify.app
 
+![screencapture-ebookingsite-netlify-app-2023-06-17-01_16_26](https://github.com/aboutmohsin/ebooking/assets/86055307/096687a5-9321-4479-8bc4-4a263ba0f911)
+
+
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
